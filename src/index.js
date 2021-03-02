@@ -29,12 +29,6 @@ function displayRamen(id) {
             <input type="submit" value="Update" />
         </form>`
         
-        // const form = ramenDetail.querySelector('form#ramen-rating')
-
-        // form.addEventListener('submit', function (e) {
-        //     e.preventDefault();
-        //     console.log(e.target);
-        // })
     })
 }
 
