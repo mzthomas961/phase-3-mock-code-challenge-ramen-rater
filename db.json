@@ -10,11 +10,11 @@
     },
     {
       "id": 2,
-      "name": "Naruto Ramen",
+      "name": "",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
-      "rating": 10,
-      "comment": "My absolute fave!"
+      "rating": "2",
+      "comment": "Who farted?"
     },
     {
       "id": 3,
@@ -22,23 +22,23 @@
       "restaurant": "Ippudo",
       "image": "./assets/ramen/nirvana.jpg",
       "rating": "7",
-      "comment": "Do buy the hype."
+      "comment": "Looks like candy"
     },
     {
       "id": 4,
-      "name": "Gyukotsu Ramen",
+      "name": "",
       "restaurant": "Za-Ya Ramen",
       "image": "./assets/ramen/gyukotsu.jpg",
-      "rating": 8,
-      "comment": "Good to the last drop."
+      "rating": "11",
+      "comment": "Amazing!"
     },
     {
       "id": 5,
       "name": "Kojiro Red Ramen",
       "restaurant": "Ramen-Ya",
       "image": "./assets/ramen/kojiro.jpg",
-      "rating": 6,
-      "comment": "Perfect for a cold night."
+      "rating": "1",
+      "comment": "This sucks"
     }
   ]
 }
